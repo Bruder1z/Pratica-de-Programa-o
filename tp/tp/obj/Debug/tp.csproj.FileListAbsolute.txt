@@ -1,0 +1,11 @@
+C:\Users\unisanta\source\repos\tp\tp\bin\Debug\tp.exe.config
+C:\Users\unisanta\source\repos\tp\tp\bin\Debug\tp.exe
+C:\Users\unisanta\source\repos\tp\tp\bin\Debug\tp.pdb
+C:\Users\unisanta\source\repos\tp\tp\obj\Debug\tp.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\tp\tp\obj\Debug\tp.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\tp\tp\obj\Debug\tp.Form1.resources
+C:\Users\unisanta\source\repos\tp\tp\obj\Debug\tp.Properties.Resources.resources
+C:\Users\unisanta\source\repos\tp\tp\obj\Debug\tp.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\tp\tp\obj\Debug\tp.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\tp\tp\obj\Debug\tp.exe
+C:\Users\unisanta\source\repos\tp\tp\obj\Debug\tp.pdb

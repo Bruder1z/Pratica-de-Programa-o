@@ -1,0 +1,11 @@
+C:\Users\unisanta\source\repos\RECEBA\RECEBA\bin\Debug\RECEBA.exe.config
+C:\Users\unisanta\source\repos\RECEBA\RECEBA\bin\Debug\RECEBA.exe
+C:\Users\unisanta\source\repos\RECEBA\RECEBA\bin\Debug\RECEBA.pdb
+C:\Users\unisanta\source\repos\RECEBA\RECEBA\obj\Debug\RECEBA.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\RECEBA\RECEBA\obj\Debug\RECEBA.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\RECEBA\RECEBA\obj\Debug\RECEBA.Form1.resources
+C:\Users\unisanta\source\repos\RECEBA\RECEBA\obj\Debug\RECEBA.Properties.Resources.resources
+C:\Users\unisanta\source\repos\RECEBA\RECEBA\obj\Debug\RECEBA.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\RECEBA\RECEBA\obj\Debug\RECEBA.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\RECEBA\RECEBA\obj\Debug\RECEBA.exe
+C:\Users\unisanta\source\repos\RECEBA\RECEBA\obj\Debug\RECEBA.pdb
